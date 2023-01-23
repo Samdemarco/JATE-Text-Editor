@@ -15,9 +15,12 @@ This web application is a text editor that runs in the browser. It is a single-p
 the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in 
 case one of the options is not supported by the browser. The application is also capable of functioning offline.
 
-Here is are snapshots of using the API calls using Insomnia:
-    <br />
-![Social Media API](Assignment18.gif)
+![App in-browser](images/JATE.png)
+
+![Service worker online](images/JATE_serviceWorkers.png)
+
+
+
 
 
 ## User Story
