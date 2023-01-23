@@ -19,6 +19,15 @@ case one of the options is not supported by the browser. The application is also
 
 ![Service worker online](images/JATE_serviceWorkers.png)
 
+![Manifest](images/JATE_manifest.png)
+
+![IndexDB](images/JATE_db.png)
+
+![Service worker offline](images/JATE_offline.png)
+
+![App Install](images/JATE_install.png)
+
+
 
 
 
