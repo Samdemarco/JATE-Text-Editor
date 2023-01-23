@@ -15,17 +15,26 @@ This web application is a text editor that runs in the browser. It is a single-p
 the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in 
 case one of the options is not supported by the browser. The application is also capable of functioning offline.
 
+## App Snapshots
+
+App in browser
 ![App in-browser](images/JATE.png)
 
+Using devtools we can see the Service Worker is active
 ![Service worker online](images/JATE_serviceWorkers.png)
 
+
+We can then inspect and verify that the manifest is loaded 
 ![Manifest](images/JATE_manifest.png)
 
+Confirm data is continuously added to database and saved locally
 ![IndexDB](images/JATE_db.png)
 
+Service Worker is still active offline ensuring continuous caching
 ![Service worker offline](images/JATE_offline.png)
 
-![App Install](images/JATE_install.png)
+Option to install a local copy to your machine
+![App Install](images/JATE_Install.png)
 
 
 
