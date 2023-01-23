@@ -3,6 +3,7 @@
 <p align="center">
   <img src="images/logo.png">
 </p>
+📌 [Link to Deployed Application](https://ass19-jate.herokuapp.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
