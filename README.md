@@ -6,13 +6,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+📌 [Link to Deployed Application](https://ass19-jate.herokuapp.com/)
+
+
 ## Description
 
 This web application is a text editor that runs in the browser. It is a single-page application that meets 
 the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in 
 case one of the options is not supported by the browser. The application is also capable of functioning offline.
 
-Here is a snapshot of API calls using Insomnia:
+Here is are snapshots of using the API calls using Insomnia:
     <br />
 ![Social Media API](Assignment18.gif)
 
