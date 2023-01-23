@@ -4,7 +4,7 @@
   <img src="images/logo.png">
 </p>
 📌 [Link to Deployed Application](https://ass19-jate.herokuapp.com/)
-
+<br />
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
