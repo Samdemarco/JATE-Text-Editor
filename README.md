@@ -59,7 +59,7 @@ THEN I should have proper build scripts for a webpack application
 
 - [Description](#description)
 - [Installation](#installation)
-- [Tech Stack](#Tech Stack)
+- [Tech-Stack](#Tech-Stack)
 
 - [License](#license)
 - [Tests](#tests)
@@ -72,7 +72,7 @@ To run your own version of the app do the following:
 3. Once all dependencies are installed type `npm run start` which will create the `dist` folder and launch the server 
 4. Use the text editor either online or offline
 
-## 🧩 Tech Stack
+## Tech-Stack
 - JavaScript
 - [Webpack](https://webpack.js.org/)
   - Service Workers
