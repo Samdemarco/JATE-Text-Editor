@@ -59,6 +59,8 @@ THEN I should have proper build scripts for a webpack application
 
 - [Description](#description)
 - [Installation](#installation)
+- [Tech Stack](#Tech Stack)
+
 - [License](#license)
 - [Tests](#tests)
 
@@ -69,6 +71,15 @@ To run your own version of the app do the following:
 2. In your terminal type `npm install` 
 3. Once all dependencies are installed type `npm run start` which will create the `dist` folder and launch the server 
 4. Use the text editor either online or offline
+
+## 🧩 Tech Stack
+- JavaScript
+- [Webpack](https://webpack.js.org/)
+  - Service Workers
+  - Create Manifest
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
 
 
 ## Credits
